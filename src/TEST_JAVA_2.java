@@ -8,7 +8,7 @@ public class TEST_JAVA_2{
 		elencoFatture.CalcolaScadenze();
 		elencoFatture.quicksort(0,elencoFatture.size()-1);
 		elencoFatture.ScriviFileFatture("src/fatture.out");
-		System.out.println("fatto!!");
+		System.out.println("fatto!");
 	}
 
 }
